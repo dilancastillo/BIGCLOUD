@@ -1,0 +1,167 @@
+*{
+	max-width: 3000px;
+	margin: 0px;
+	padding: 0px;
+	max-height: 1500px;
+}
+header, section{
+	width: 65%;
+	margin: 10px auto;
+}
+.container4{
+	width: 90%;
+	height: 100%;
+	margin: 0px auto;
+}
+.container2{
+	
+	width: 90%;
+	height: 100%;
+	margin: 0px auto;
+}
+header{
+	background-color: white;
+	
+}
+body{
+	background-color: #CFCFCF;
+	background-size: cover;
+}
+.logo{
+	width: 5%;
+}
+
+h1{
+	font-size: 45px;
+}
+
+.linea{
+  background-repeat: no-repeat;	
+}
+
+h2{
+	color: #F13B9D;
+	display: inline;
+}
+
+h3{
+	text-align: right;
+	color: #F13B9D;
+	display: inline;
+}
+
+.menu ul{
+	list-style: none;
+}
+.menu ul li{
+	float: right;
+}
+.menu ul li a{
+	padding: 8px 8px;
+	display: block;
+	color: #F13B9D;
+	text-decoration: none;
+	font-size: 20px;
+}
+.menu ul li a{
+	margin-left: 2%;
+}
+
+
+
+.uno, .dos, .tres{
+	float: left;
+	border-right: 1px solid white;
+	font-size: 150px;
+}
+
+.uno{
+	color: #1BF935;
+	
+}
+
+.dos{
+	color: #F2923D;
+	
+}
+
+.tres{
+	color: #2CD8EC;
+	
+}
+.t2{
+	margin-left: 20%;
+}
+
+
+
+
+.n1{
+	width: 400px;
+	text-align: left;
+	border-bottom: 1px solid gray;
+	padding: 30px;
+	font-size: 30px;
+}
+.n2{
+	width: 400px;
+	border-bottom: 1px solid gray;
+	text-align: left;
+	font-size: 30px;
+	padding: 30px;
+}
+.numuno{
+	color: #lightgreen;
+}
+.numdos{
+	color: orange;
+}
+.numtres{
+	color: lightblue;
+}
+.numuno, .numdos, .numtres{
+	float: left;
+	border-right: 1px solid white;
+	height: 200px;
+	width: 130px;
+	font-size: 190px;
+	margin-left: 20%;
+
+}
+.b1, .b2, .b3{
+	background-color: #605959;
+	color: white;
+	margin-left: 2%;
+	margin-right: 10%;
+	display: block;
+	float: right;
+}
+tr, td{
+	width: 400px;
+	text-align: left;
+	border-bottom: 1px solid gray;
+	padding: 30px;
+	font-size: 20px;
+}
+table{
+	
+	width: 85%;
+	left:-15% ;
+	top: 10%;
+	margin-right: 20%;
+	text-align:left;
+	margin-left: 20%;
+	margin-top: 20%;
+}
+
+footer{
+	border-top: solid 8px red;
+	width: 100%;
+	background: black;
+	color: white;
+	clear: both;
+	padding: 20px;
+	font-size: 40px;
+}
+
+
